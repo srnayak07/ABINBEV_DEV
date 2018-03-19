@@ -419,4 +419,11 @@
     <migrationTask xmi:id="_SThEvytnEeinUtdmo_BCFQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Rk30oitnEeinUtdmo_BCFQ" login="snayak@talend.com" firstName="smrutiranjan" lastName="nayak" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_Um41gCumEeiaKoB7Y1SkRw" login="Harinder.Singh1@ab-inbev.com" firstName="Harinder" lastName="Singh" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_Um41gSumEeiaKoB7Y1SkRw" login="Subhajit.Kolay@AB-Inbev.com" firstName="Subhajit" lastName="Kolay" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_Um41giumEeiaKoB7Y1SkRw" login="Sourav.Santra-ext2@ab-Inbev.com" firstName="Sourav" lastName="Santra" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_Um41gyumEeiaKoB7Y1SkRw" login="Sumesh.Nair-ext@ab-Inbev.com" firstName="Sumesh" lastName="Nair" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_Um41hCumEeiaKoB7Y1SkRw" login="Shatavisha.Choudhury-ext2@ab-Inbev.com" firstName="Shatavisha" lastName="Choudhury" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_Um41hSumEeiaKoB7Y1SkRw" login="RajivKumar.Shaw-ext@ab-Inbev.com" firstName="RajivKumar" lastName="Shaw" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_Um41hiumEeiaKoB7Y1SkRw" login="Sourav.Nayak@AB-Inbev.com" firstName="Sourav" lastName="Nayak" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
