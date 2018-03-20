@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendHCatalog="http://www.talend.org/hcatalog" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore" xmlns:relational="http://www.talend.org/cwm/resource/relational/2010">
+  <TalendHCatalog:HCatalogConnection xmi:id="_YzhMICVSEeiEXozpqqyLAQ" name="hcat_spk" label="hcat_spk" dataPackage="_YzhMISVSEeiEXozpqqyLAQ" relativeHadoopClusterId="_z83fMCUqEeiEXozpqqyLAQ" hostName="ddc9fc-edhspkblobtest-hdi-dev-gb.azurehdinsight.net" port="443" userName="sparkadmin" password="Password@1234" rowSeparator="&quot;\n&quot;" fieldSeparator="&quot;;&quot;"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_YzhMISVSEeiEXozpqqyLAQ" name="HCatalog" dataManager="_YzhMICVSEeiEXozpqqyLAQ">
+    <ownedElement xsi:type="relational:TdTable" xmi:id="_YzhMIiVSEeiEXozpqqyLAQ" name="hvac" id="_X2uMsCVSEeiEXozpqqyLAQ" label="hvac">
+      <taggedValue xmi:id="_YzhMIyVSEeiEXozpqqyLAQ" tag="Comment" value=""/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YzhMJCVSEeiEXozpqqyLAQ" label="date" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YzhMJSVSEeiEXozpqqyLAQ" label="time" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YzhMJiVSEeiEXozpqqyLAQ" label="targettemp" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YzhMJyVSEeiEXozpqqyLAQ" label="actualtemp" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YzhMKCVSEeiEXozpqqyLAQ" label="buildingid" talendType="id_String"/>
+    </ownedElement>
+  </orgomg.cwm.resource.relational:Schema>
+</xmi:XMI>

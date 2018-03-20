@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendHadoopCluster:HadoopClusterConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendHadoopCluster="http://www.talend.org/hadoopcluster" xmi:id="_Cwzi4CVSEeiEXozpqqyLAQ" name="spk_blob" label="spk_blob" distribution="MICROSOFT_HD_INSIGHT" dfVersion="MICROSOFT_HD_INSIGHT_3_6" useYarn="true" nameNodeURI="hdfs://localhost:8020" jobTrackerURI="localhost:8032" group="" authMode="USERNAME" useSparkProperties="true" rmScheduler="localhost:8030" jobHistory="0.0.0.0:10020" stagingDirectory="/user" useDNHost="true" preloadAuthentification="true">
+  <connectionList>_RaM1MCVSEeiEXozpqqyLAQ</connectionList>
+  <parameters xmi:id="_Cwzi4SVSEeiEXozpqqyLAQ" key="CONN_PARA_KEY_WEB_HCAT_HOSTNAME" value="ddc9fc-edhspkblobtest-hdi-dev-gb.azurehdinsight.net"/>
+  <parameters xmi:id="_Cwzi4iVSEeiEXozpqqyLAQ" key="CONN_PARA_KEY_WEB_HCAT_PORT" value="443"/>
+  <parameters xmi:id="_Cwzi4yVSEeiEXozpqqyLAQ" key="CONN_PARA_KEY_WEB_HCAT_USERNAME" value="sparkadmin"/>
+  <parameters xmi:id="_Cwzi5CVSEeiEXozpqqyLAQ" key="CONN_PARA_KEY_HDI_USERNAME" value="sparkadmin"/>
+  <parameters xmi:id="_Cwzi5SVSEeiEXozpqqyLAQ" key="CONN_PARA_KEY_AZURE_HOSTNAME" value="datalakesagbdevsagbdev.blob.core.windows.net"/>
+  <parameters xmi:id="_Cwzi5iVSEeiEXozpqqyLAQ" key="CONN_PARA_KEY_AZURE_CONTAINER" value="root"/>
+  <parameters xmi:id="_Cwzi5yVSEeiEXozpqqyLAQ" key="CONN_PARA_KEY_AZURE_USERNAME" value="datalakesagbdevsagbdev"/>
+  <parameters xmi:id="_Cwzi6CVSEeiEXozpqqyLAQ" key="CONN_PARA_KEY_AZURE_DEPLOY_BLOB" value="/user/job_deploy"/>
+  <parameters xmi:id="_Cwzi6SVSEeiEXozpqqyLAQ" key="CONN_PARA_KEY_WEB_HCAT_JOB_RESULT_FOLDER" value="/user/hdJobResult"/>
+  <parameters xmi:id="_Cwzi6iVSEeiEXozpqqyLAQ" key="CONN_PARA_KEY_HDI_PASSWORD" value="Password@1234"/>
+  <parameters xmi:id="_Cwzi6yVSEeiEXozpqqyLAQ" key="CONN_PARA_KEY_AZURE_PASSWORD" value="0IPbiYvWY/1wIVBUXD7+9/6uAgLiRp40k2dcl0pzd52+FWkywts3myexBT9jGnaNJ+E0yoaOyGCyZ7p94Sa3fA=="/>
+</TalendHadoopCluster:HadoopClusterConnection>
