@@ -144,7 +144,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_2y4AcCwkEei4w_Z1_8IYMg">
       <baseItem xmi:id="_2y4AcSwkEei4w_Z1_8IYMg" id="_vTUHYKwCEeaDyt8GFI8UZA" version="0.1" type="job"/>
-      <relatedItems xmi:id="_2y4AciwkEei4w_Z1_8IYMg" id="_a8TW8KG6EeazIO1IkWHDUw" version="Latest" type="context"/>
       <relatedItems xmi:id="_2y4AcywkEei4w_Z1_8IYMg" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_2y4AdCwkEei4w_Z1_8IYMg" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_2y4AdSwkEei4w_Z1_8IYMg" id="TalendString" version="Latest" type="routine"/>
@@ -159,6 +158,8 @@
       <relatedItems xmi:id="_2y4AfiwkEei4w_Z1_8IYMg" id="Relational" version="Latest" type="routine"/>
       <relatedItems xmi:id="_2y4AfywkEei4w_Z1_8IYMg" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_2y4AgCwkEei4w_Z1_8IYMg" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_9fEysCwkEei4w_Z1_8IYMg" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_9fEysSwkEei4w_Z1_8IYMg" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
     <migrationTask xmi:id="_R9dTwCtnEeinUtdmo_BCFQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_R9dTwStnEeinUtdmo_BCFQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
